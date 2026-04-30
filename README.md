@@ -1,6 +1,6 @@
 # 🌐 Ilham Naraya - Portfolio Website
 
-![Preview](assets/images/preview.png)
+![Preview](public/img/preview.png)
 
 Halo! 👋
 Selamat datang di repository portfolio pribadi saya.
