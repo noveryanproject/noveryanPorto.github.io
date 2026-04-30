@@ -1,6 +1,6 @@
 # 🌐 Ilham Naraya - Portfolio Website
 
-![Preview](https://via.placeholder.com/1200x500.png?text=Portfolio+Preview)
+![Preview](assets/images/preview.png)
 
 Halo! 👋
 Selamat datang di repository portfolio pribadi saya.
@@ -101,16 +101,6 @@ Project ini dibuat untuk:
 * Dokumentasi project
 * Media personal branding
 * Latihan dan pengembangan skill frontend
-
----
-
-## 📸 Screenshot
-
-menyusul ya ... hehehe...
-
-```
-![Homepage](link-gambar-kamu)
-```
 
 ---
 
